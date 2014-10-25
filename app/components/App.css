@@ -1,0 +1,21 @@
+.header-container {
+  position: fixed;
+}
+
+.header-container .header ul {
+  text-align: center;
+}
+
+.header-container .header ul li {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.container .about .overview h1 {
+  text-align: center;
+}
+
+h3 code {
+  font-size: inherit;
+}
