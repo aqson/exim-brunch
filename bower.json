@@ -8,12 +8,11 @@
     "bluebird": "~2.3.6"
   },
   "overrides": {
-    "exim": {
-      "dependencies": {
+    "dependencies": {
+      "exim": {
         "react": "*",
         "bluebird": "*"
       }
     }
   }
 }
-
