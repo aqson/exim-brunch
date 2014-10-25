@@ -1,0 +1,19 @@
+{
+  "name": "your-app",
+  "version": "0.0.1",
+  "main": "public/app.js",
+  "dependencies": {
+    "react": "~0.11.1",
+    "exim": "0.1.1",
+    "bluebird": "~2.3.6"
+  },
+  "overrides": {
+    "exim": {
+      "dependencies": {
+        "react": "*",
+        "bluebird": "*"
+      }
+    }
+  }
+}
+
